@@ -1,7 +1,6 @@
-Fast Campus DSS 14th Crawling-3조  
-# 네이버 우리 (도)지역 주간 베스트 콘텐츠 알림 서비스
-
-
+# Crawling Project - 네이버 우리 (도)지역 주간 베스트 콘텐츠 알림 서비스
+(Fast Campus DSS 14th Crawling-3조)
+조원 : 정성용, 여영웅, 박진영
 
 크롤링을 활용하여 웹 데이터를 불러와 판다스 데이터프레임을 활용하여 전처리하고 SQL 데이터베이스로 저장
 이후 데이터베이스로 KAKAO API, AWS Lambda, Crontab등을 활용하여 서비스를 구축하는 활동
@@ -29,12 +28,12 @@ Fast Campus DSS 14th Crawling-3조
  
  ## 팀구성
 
-- 담당   
-  정성용 : 카카오톡 및 웹 프레임워크 서비스 구축  
-  여영웅 : 데이터프레임 전처리 및 데이터베이스 관리
+- 담당 
+ 정성용 : 카카오톡 및 웹 프레임워크 서비스 구축
+ 여영웅 : 데이터프레임 전처리 및 데이터베이스 관리
+ 박진영 :
 
 ## 결과물
    ###
-![image](https://github.com/dss-14th/crawling-repo-3/blob/main/1.png)
 
 ## 우여곡절 
