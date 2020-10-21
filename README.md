@@ -1,5 +1,5 @@
 # 네이버 우리 (도)지역 주간 베스트 콘텐츠 알림 서비스
-(Fast Campus DSS 14th Crawling-3조)  
+Fast Campus DSS 14th Crawling-3조  
 조원 : 정성용, 여영웅
 
 크롤링을 활용하여 웹 데이터를 불러와 판다스 데이터프레임을 활용하여 전처리하고 SQL 데이터베이스로 저장
