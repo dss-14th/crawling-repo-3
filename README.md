@@ -1,4 +1,4 @@
-# Crawling Project - 네이버 우리 (도)지역 주간 베스트 콘텐츠  알림 서비스
+# 네이버 우리 (도)지역 주간 베스트 콘텐츠 알림 서비스
 (Fast Campus DSS 14th Crawling-3조)
 조원 : 정성용, 여영웅, 박진영
 
