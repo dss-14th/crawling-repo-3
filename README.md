@@ -32,7 +32,8 @@
   - 여영웅 : 크롤링, 데이터프레임 전처리 및 데이터베이스 관리
 
 ## 결과물
-   ###
+   ### 카카오톡 알림 서비스 제공
    ![image](https://github.com/dss-14th/crawling-repo-3/blob/main/1.png)
-
+   ### Flask로 웹페이지 생성하여 서비스 구현 
+   !
 ## 우여곡절 
