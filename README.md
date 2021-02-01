@@ -35,5 +35,5 @@
    ### 카카오톡 알림 서비스 제공
    ![image](https://github.com/dss-14th/crawling-repo-3/blob/main/1.png)
    ### Flask로 웹페이지 생성하여 서비스 구현 
-   !image](https://user-images.githubusercontent.com/68368668/106410632-9e599b80-6486-11eb-8d81-b00d4461fc20.png)
+   ![image](https://user-images.githubusercontent.com/68368668/106410632-9e599b80-6486-11eb-8d81-b00d4461fc20.png)
 ## 우여곡절 
